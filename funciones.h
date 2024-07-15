@@ -1,7 +1,4 @@
-// #ifndef FUNCIONES_H_INCLUDED
-// #define FUNCIONES_H_INCLUDED
 
-// Poner el archivo en la misma carpeta que el cpp
 /// DECLARACIÓN/PROTOTIPO DE FUNCIONES
 void cargarVector(int v[], int tam); /// asigna valores a cada una de las posiciones del vector
 
@@ -157,5 +154,3 @@ void cargarVector(int v[], int tam)
         cin >> v[i];
     }
 }
-
-// #endif // FUNCIONES_H_INCLUDED
